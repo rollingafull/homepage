@@ -491,9 +491,9 @@
     },
     "healthchecks": {
         "new": "Új",
-        "up": "Csatlakozva",
+        "up": "Fel",
         "grace": "Türelmi idő alatt",
-        "down": "Offline",
+        "down": "Le",
         "paused": "Szünetel",
         "status": "Státusz",
         "last_ping": "Legutóbbi Ping",

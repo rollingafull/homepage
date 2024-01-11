@@ -491,9 +491,9 @@
     },
     "healthchecks": {
         "new": "Нови",
-        "up": "Online",
+        "up": "Up",
         "grace": "Гратисен период",
-        "down": "Изключен",
+        "down": "Down",
         "paused": "Paused",
         "status": "Статус",
         "last_ping": "Last Ping",

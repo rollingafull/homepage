@@ -491,9 +491,9 @@
     },
     "healthchecks": {
         "new": "新着",
-        "up": "オンライン",
+        "up": "上へ",
         "grace": "猶予期間中",
-        "down": "オフライン",
+        "down": "下へ",
         "paused": "一時停止中",
         "status": "状態",
         "last_ping": "最後のPing",

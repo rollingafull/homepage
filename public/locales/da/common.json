@@ -491,9 +491,9 @@
     },
     "healthchecks": {
         "new": "Ny",
-        "up": "Online",
+        "up": "Op",
         "grace": "Henstandsperiode",
-        "down": "Offline",
+        "down": "Ned",
         "paused": "Pause",
         "status": "Status",
         "last_ping": "Sidste Ping",

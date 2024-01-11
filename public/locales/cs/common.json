@@ -491,9 +491,9 @@
     },
     "healthchecks": {
         "new": "Nové",
-        "up": "Online",
+        "up": "Up",
         "grace": "V období odkladu",
-        "down": "Offline",
+        "down": "Down",
         "paused": "Pozastaveno",
         "status": "Stav",
         "last_ping": "Poslední ping",

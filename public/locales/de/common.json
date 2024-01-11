@@ -383,8 +383,8 @@
     },
     "authentik": {
         "users": "Benutzer",
-        "loginsLast24H": "Anmeldungen (24h)",
-        "failedLoginsLast24H": "fehlerhafte Anmeldungen (24h)"
+        "loginsLast24H": "Anmeldungen (24 h)",
+        "failedLoginsLast24H": "Fehlgeschlagene Anmeldungen (24 h)"
     },
     "proxmox": {
         "mem": "RAM",
@@ -491,9 +491,9 @@
     },
     "healthchecks": {
         "new": "Neu",
-        "up": "Online",
+        "up": "Senden",
         "grace": "In Karenzzeit",
-        "down": "Offline",
+        "down": "Empfangen",
         "paused": "Pausiert",
         "status": "Status",
         "last_ping": "Letzter Ping",
@@ -608,7 +608,7 @@
     },
     "proxmoxbackupserver": {
         "datastore_usage": "Datenspeicher",
-        "failed_tasks_24h": "Fehlgeschlagene Prozesse 24h",
+        "failed_tasks_24h": "Fehlgeschlagene Prozesse (24 h)",
         "cpu_usage": "CPU",
         "memory_usage": "RAM"
     },

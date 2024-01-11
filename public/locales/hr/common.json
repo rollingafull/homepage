@@ -491,9 +491,9 @@
     },
     "healthchecks": {
         "new": "Novo",
-        "up": "Online",
+        "up": "Up",
         "grace": "U razdoblju odgode",
-        "down": "Offline",
+        "down": "Down",
         "paused": "Zaustavljeno",
         "status": "Stanje",
         "last_ping": "Zadnji ping",

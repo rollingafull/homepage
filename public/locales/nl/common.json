@@ -491,9 +491,9 @@
     },
     "healthchecks": {
         "new": "Nieuw",
-        "up": "Bereikbaar",
+        "up": "Online",
         "grace": "In de respijt periode",
-        "down": "Onbereikbaar",
+        "down": "Offline",
         "paused": "Gepauzeerd",
         "status": "Status",
         "last_ping": "Laatste Ping",
